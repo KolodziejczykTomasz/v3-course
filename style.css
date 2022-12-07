@@ -99,4 +99,46 @@ section.summary table tbody tr:last-of-type th {
 }
 
 
+main-band {
+    text-align: center;
+    padding: 45px;
+}
+
+
+main-band table {
+    margin: auto;
+    font-size: 14px;
+}
+
+main-band td, main th {
+    padding: 8px;
+    border-collapse: collapse;
+}
+
+main-band th {
+    border-bottom: 1px solid lightgrey;
+}
+
+main-band p {
+    margin-top: 0px;
+}
+
+main-band form input,
+main-band form select {
+    height: 24px;
+    width: 240px;
+    box-sizing: border-box;
+}
+
+main-band form label {
+    font-size: 12px;
+}
+
+section.add-more {
+    background-color: rgb(241, 241, 241);
+    padding: 40px;
+    margin-top: 40px;
+}
+
+
 
